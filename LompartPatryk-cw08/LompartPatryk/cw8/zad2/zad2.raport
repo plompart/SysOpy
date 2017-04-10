@@ -1,0 +1,31 @@
+wersja 1:
+SIGUSR1: User defined signal 1
+SIGTERM: Terminated
+SIGKILL: Killed
+SIGSTOP: Stopped
+
+wersja 2:
+SIGUSR1: nic
+SIGTERM: nic
+SIGKILL: Killed
+SIGSTOP: Stopped
+
+wersja 3:
+SIGUSR1: sygnał zostały przejęty przez główny wątek
+SIGTERM: sygnał zostały przejęty przez główny wątek
+SIGKILL: Killed
+SIGSTOP: Stopped
+
+wersja 4:
+SIGUSR1: nic
+SIGTERM: nic
+SIGKILL: Killed
+SIGSTOP: Stopped
+
+wersja 5:
+SIGUSR1: sygnał zostały przejęty przez główny wątek
+SIGTERM: sygnał zostały przejęty przez główny wątek
+SIGKILL: Killed
+SIGSTOP: Stopped
+
+wersja jadra: 3.10.0-327.13.1.el7.centos.plus.x86_64
